@@ -1,0 +1,6 @@
+name: MoveRange
+main: range.range
+version: 2.0
+commands:
+  mrange:
+    description: To measurement manager commands.
